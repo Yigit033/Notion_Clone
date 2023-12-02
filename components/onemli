@@ -1,0 +1,13 @@
+componentin içindeki bir sayfanın routable olmasını istemiyorsan. Components'in başına "_" koyman lazım. 
+
+"_components" gibi!!
+
+
+cache = önbellek!
+
+
+başında "_" olan folderlar içeriğindeki tüm componentlerin route edilmesini engeller!
+
+
+başında "()" olan uygulamalar ise kendisi url i eklemez ama altına açılan folderlere uaşılabilir!
+
